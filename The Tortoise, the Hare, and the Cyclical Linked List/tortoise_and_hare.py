@@ -10,7 +10,7 @@ def tortoise_and_hare_bool(head: Optional[ListNode]) -> bool:
     fast = slow = head
     while fast and fast.next_node:
         slow, fast = slow.next_node, fast.next_node.next_node
-        if slow == fast:
+        if fast == slow:
             return True
     return False
 
