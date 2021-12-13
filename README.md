@@ -10,7 +10,7 @@ longer code snippets can be found in designated, homonymous folders.
 
 ## Dimensionality In Dynamic Programming
 
-This [article](https://medium.com/@edgar-loves-python/dimensionality-in-dynamic-programming-ad36af3b6a61)
+This [article](https://medium.com/@edgar-loves-python/dimensionality-in-dynamic-programming-ad36af3b6a61?source=friends_link&sk=4e84d81d282d0c47bcde48e0f8557f00)
 is about space complexity in dynamic programming.
 
 ### Gists: Dimensionality in Dynamic Programming
@@ -24,7 +24,7 @@ is about space complexity in dynamic programming.
 
 ## The Tortoise, the Hare, and the Cyclical Linked List
 
-This [article](https://medium.com)
+This [article](https://medium.com/@edgar-loves-python/the-tortoise-the-hare-and-the-cyclical-linked-list-1b51acab5b?source=friends_link&sk=b8505cbe79e5b73d28c87f0b6f0ec3cf)
 is about Floyd's tortoise and hare algorithm for cycle detection in linked lists.
 
 ### Gists: The Tortoise, the Hare, and the Cyclical Linked List
